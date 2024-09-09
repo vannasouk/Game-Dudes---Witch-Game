@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.37f1 (8c66806a0c04) revision 9201280'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 16056 MB
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'en' Physical Memory: 16082 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
@@ -11,143 +11,113 @@ C:\Program Files\Unity\Hub\Editor\2020.3.37f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Facilitiesbri/Documents/MyRepos/Game Dudes - Witch Game/Witch Shop
+C:/Users/shayes/Desktop/Repo/Game-Dudes---Witch-Game/Witch Shop
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49885
-Successfully changed project path to: C:/Users/Facilitiesbri/Documents/MyRepos/Game Dudes - Witch Game/Witch Shop
-C:/Users/Facilitiesbri/Documents/MyRepos/Game Dudes - Witch Game/Witch Shop
+60413
+Successfully changed project path to: C:/Users/shayes/Desktop/Repo/Game-Dudes---Witch-Game/Witch Shop
+C:/Users/shayes/Desktop/Repo/Game-Dudes---Witch-Game/Witch Shop
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 18.25 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 47.13 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.37f1 (8c66806a0c04)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Facilitiesbri/Documents/MyRepos/Game Dudes - Witch Game/Witch Shop/Assets
+[Subsystems] Discovering subsystems at path C:/Users/shayes/Desktop/Repo/Game-Dudes---Witch-Game/Witch Shop/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0xa7a0)
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
     Vendor:   
-    VRAM:     8028 MB
-    Driver:   31.0.101.5186
+    VRAM:     8041 MB
+    Driver:   31.0.101.5388
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56992
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001111 seconds.
+Registered in 0.001507 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 19.17 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 24.00 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.337 seconds
+- Completed reload, in  0.467 seconds
 Domain Reload Profiling:
-	ReloadAssembly (337ms)
-		BeginReloadAssembly (38ms)
+	ReloadAssembly (467ms)
+		BeginReloadAssembly (62ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (0ms)
-		EndReloadAssembly (254ms)
-			LoadAssemblies (36ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (326ms)
+			LoadAssemblies (60ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (77ms)
+			SetupTypeCache (111ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (17ms)
-			SetupLoadedEditorAssemblies (95ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (114ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (19ms)
+				RefreshPlugins (24ms)
 				BeforeProcessingInitializeOnLoad (6ms)
-				ProcessInitializeOnLoadAttributes (49ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
+				ProcessInitializeOnLoadAttributes (59ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001794 seconds.
+Registered in 0.002614 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000001856989ABD0 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Assembly-CSharp.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000185681FA420 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000018567661620 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001856776B020 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000018567780630 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000018567780630 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000185684DC010 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000185690B5810 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000185684DC010 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000185690B5810 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000018567D30C90 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000018568C4BE30 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000018568F9E010 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000018568C4BE30 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000185677FCC40 doesn't match image C:\Users\Facilitiesbri\Documents\MyRepos\Game Dudes - Witch Game\Witch Shop\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.584 seconds
+- Completed reload, in  0.674 seconds
 Domain Reload Profiling:
-	ReloadAssembly (584ms)
-		BeginReloadAssembly (81ms)
+	ReloadAssembly (675ms)
+		BeginReloadAssembly (106ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (2ms)
+			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (12ms)
-		EndReloadAssembly (468ms)
-			LoadAssemblies (54ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (529ms)
+			LoadAssemblies (64ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (160ms)
+			SetupTypeCache (165ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (24ms)
-			SetupLoadedEditorAssemblies (180ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (224ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (39ms)
-				ProcessInitializeOnLoadAttributes (126ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
+				BeforeProcessingInitializeOnLoad (38ms)
+				ProcessInitializeOnLoadAttributes (169ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (1ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1519 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.6 MB.
-System memory in use after: 69.7 MB.
+System memory in use before: 69.1 MB.
+System memory in use after: 69.2 MB.
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1957.
-Total: 1.938300 ms (FindLiveObjects: 0.067600 ms CreateObjectMapping: 0.021700 ms MarkObjects: 1.798600 ms  DeleteObjects: 0.049300 ms)
+Total: 2.041900 ms (FindLiveObjects: 0.081700 ms CreateObjectMapping: 0.024700 ms MarkObjects: 1.865700 ms  DeleteObjects: 0.069200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -162,133 +132,156 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Shaye Stuff/Bar_EmptyAsset 4.png
-  artifactKey: Guid(c8f06fecaa213d44f87946e20909b582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Bar_EmptyAsset 4.png using Guid(c8f06fecaa213d44f87946e20909b582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7b2b2ef065bd9ed8c9dacda903c289') in 0.263356 seconds 
+  path: Assets/Scenes
+  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd21fa7a6c7995562054ace971d31a84') in 0.004432 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.437357 seconds.
-  path: Assets/Shaye Stuff/Blue potion 1.png
-  artifactKey: Guid(510f982b05fc95d4ab8ffe13f1706d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Blue potion 1.png using Guid(510f982b05fc95d4ab8ffe13f1706d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112e504f4a728d3217c5ee034f0479c8') in 0.006001 seconds 
+  Time since last request: 20.903446 seconds.
+  path: Assets/Scenes/Shaye Test.unity
+  artifactKey: Guid(9489ba1b2464f6e428a8c392d5afe561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Shaye Test.unity using Guid(9489ba1b2464f6e428a8c392d5afe561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c1208ed4ee57b7d80d9661f374b3b7') in 0.004198 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.183829 seconds.
+  Time since last request: 50.765113 seconds.
+  path: Assets/Shaye Stuff/Coin.png
+  artifactKey: Guid(816eb386a8b76464e8d6009e78f46891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/Coin.png using Guid(816eb386a8b76464e8d6009e78f46891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8cf508e985a9b6dd2d504d264f828a0') in 0.442575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.757508 seconds.
+  path: Assets/Shaye Stuff/Coin.png
+  artifactKey: Guid(816eb386a8b76464e8d6009e78f46891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/Coin.png using Guid(816eb386a8b76464e8d6009e78f46891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9488ff31045c939cc3d2b6d9f5a2de07') in 0.056273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 850.790545 seconds.
+  path: Assets/Shaye Stuff/Star_EmptyAsset 3.png
+  artifactKey: Guid(d5aae0d9388a01843805a8bb8c48c366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/Star_EmptyAsset 3.png using Guid(d5aae0d9388a01843805a8bb8c48c366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66cb08686456d469e0a4d9d84c39d01') in 0.010773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.286003 seconds.
+  path: Assets/Shaye Stuff/Toe 1.png
+  artifactKey: Guid(2763e022ddff96d44a1e309edfa735f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/Toe 1.png using Guid(2763e022ddff96d44a1e309edfa735f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847f320194ea8ae42235a683d4fcb442') in 0.015057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.061651 seconds.
+  path: Assets/Shaye Stuff/T Path.png
+  artifactKey: Guid(d79f61387f7094e4694b5b3adf7810f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/T Path.png using Guid(d79f61387f7094e4694b5b3adf7810f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7770068c930e230fb1423b8aeb417352') in 0.010060 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.180604 seconds.
+  path: Assets/Shaye Stuff/Star_FilledAsset 2.png
+  artifactKey: Guid(0454932684c72ad499999816f2980bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/Star_FilledAsset 2.png using Guid(0454932684c72ad499999816f2980bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd864841f7bfdccc0c7c73a1e635f506d') in 0.008249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.237086 seconds.
+  path: Assets/Shaye Stuff/SquareButton_Pressed.png
+  artifactKey: Guid(aba63d2e94e6cb54f9b89a8084182109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/SquareButton_Pressed.png using Guid(aba63d2e94e6cb54f9b89a8084182109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894a2471e6af895c16d3eccbf1c74e57') in 0.008572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.098731 seconds.
+  path: Assets/Shaye Stuff/SquareButton.png
+  artifactKey: Guid(c07b247a2abbe074f8373b2523ba340b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/SquareButton.png using Guid(c07b247a2abbe074f8373b2523ba340b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112a22441d58ba39cca92f9f0b8ee0b7') in 0.010956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.114247 seconds.
+  path: Assets/Shaye Stuff/Red potion 1.png
+  artifactKey: Guid(afd82d8d82850a046b6f53911e480703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/Red potion 1.png using Guid(afd82d8d82850a046b6f53911e480703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76663c1b27cbdb893d50d9341bcc373b') in 0.007945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.131854 seconds.
+  path: Assets/Shaye Stuff/Menu_topCap.png
+  artifactKey: Guid(10beff285b16eff49b4d309a39d66c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/Menu_topCap.png using Guid(10beff285b16eff49b4d309a39d66c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a757162213012b291da9adbd0fe1f33a') in 0.010840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.113505 seconds.
   path: Assets/Shaye Stuff/Menu_botCap.png
   artifactKey: Guid(948859d935086b9479acbb43ef9434fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Menu_botCap.png using Guid(948859d935086b9479acbb43ef9434fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9bbe01e7ba72010b369f968f89140b9') in 0.005721 seconds 
+Start importing Assets/Shaye Stuff/Menu_botCap.png using Guid(948859d935086b9479acbb43ef9434fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce4edab80653dd1e7e3018e84bcbae8') in 0.011947 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 89.839249 seconds.
-  path: Assets/Shaye Stuff/UpgradeButton_PressedAsset 6.png
-  artifactKey: Guid(2cac6d6b4baaf1948adf867823f1fcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/UpgradeButton_PressedAsset 6.png using Guid(2cac6d6b4baaf1948adf867823f1fcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39cbf31b578d47bd606788d28ecd46ca') in 0.012607 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.173746 seconds.
-  path: Assets/Shaye Stuff/UpgradeButton_PressedAsset 6.png
-  artifactKey: Guid(2cac6d6b4baaf1948adf867823f1fcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/UpgradeButton_PressedAsset 6.png using Guid(2cac6d6b4baaf1948adf867823f1fcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84eca298eb76c2cdd76fd237c49bad0e') in 0.030014 seconds 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 42.2 MB.
-System memory in use after: 42.3 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1967.
-Total: 3.345000 ms (FindLiveObjects: 0.144300 ms CreateObjectMapping: 0.032700 ms MarkObjects: 3.148700 ms  DeleteObjects: 0.018100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.04 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 42.2 MB.
-System memory in use after: 42.3 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1967.
-Total: 2.888100 ms (FindLiveObjects: 0.102500 ms CreateObjectMapping: 0.033100 ms MarkObjects: 2.733600 ms  DeleteObjects: 0.017700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 42.2 MB.
-System memory in use after: 42.3 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1967.
-Total: 2.968000 ms (FindLiveObjects: 0.110800 ms CreateObjectMapping: 0.028300 ms MarkObjects: 2.805600 ms  DeleteObjects: 0.022200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 581.839143 seconds.
+  Time since last request: 0.131808 seconds.
   path: Assets/Shaye Stuff/Menu_Body.png
   artifactKey: Guid(fa961c1b11fc28640ba31c95efd0154a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Menu_Body.png using Guid(fa961c1b11fc28640ba31c95efd0154a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf2c0e04f703593484c80990169c6f8') in 0.008226 seconds 
+Start importing Assets/Shaye Stuff/Menu_Body.png using Guid(fa961c1b11fc28640ba31c95efd0154a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94158c1b6654fd30131d5dfb37b0743') in 0.013544 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.152488 seconds.
-  path: Assets/Shaye Stuff/Menu_Body.png
-  artifactKey: Guid(fa961c1b11fc28640ba31c95efd0154a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Menu_Body.png using Guid(fa961c1b11fc28640ba31c95efd0154a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e07c278f26993fb40fd3373d05586b') in 0.010020 seconds 
+  Time since last request: 391.564915 seconds.
+  path: Assets/Shaye Stuff/Fern 1.png
+  artifactKey: Guid(a46151a0a57917348b49aee2d406d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/Fern 1.png using Guid(a46151a0a57917348b49aee2d406d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aee6ca48dbab61c06b602df1651a845') in 0.009443 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 236.339476 seconds.
-  path: Assets/Shaye Stuff/Toe 1.png
-  artifactKey: Guid(2763e022ddff96d44a1e309edfa735f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Toe 1.png using Guid(2763e022ddff96d44a1e309edfa735f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aaa0b61a511d481423885d5303b464b') in 0.008051 seconds 
+  Time since last request: 6.384330 seconds.
+  path: Assets/Shaye Stuff/Fern 1.png
+  artifactKey: Guid(a46151a0a57917348b49aee2d406d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/Fern 1.png using Guid(a46151a0a57917348b49aee2d406d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fcd10e3ff015a0093ec0ac8dd5aa2dd') in 0.041855 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.507308 seconds.
-  path: Assets/Shaye Stuff/Toe 1.png
-  artifactKey: Guid(2763e022ddff96d44a1e309edfa735f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Toe 1.png using Guid(2763e022ddff96d44a1e309edfa735f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4920857fddde9aca95867e7c7d6b8191') in 0.013093 seconds 
+  Time since last request: 143.457719 seconds.
+  path: Assets/Animation/Person.controller
+  artifactKey: Guid(6729b590d1a61ba41b7e98841a7007c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Person.controller using Guid(6729b590d1a61ba41b7e98841a7007c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47cbaa9b0875433fa0344d39d75e7a85') in 0.009739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 61.214040 seconds.
+  path: Assets/Animation/Coin.controller
+  artifactKey: Guid(f12b93aee2a51bb4c8150366f7ce0eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Coin.controller using Guid(f12b93aee2a51bb4c8150366f7ce0eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36f89aa1a10e768edbfa4bc60202e62') in 0.003198 seconds 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 2.09 ms, found 2 plugins.
+Registering precompiled user dll's ...
+Registered in 0.002599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 42.1 MB.
-System memory in use after: 42.3 MB.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.655 seconds
+Domain Reload Profiling:
+	ReloadAssembly (656ms)
+		BeginReloadAssembly (95ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (519ms)
+			LoadAssemblies (67ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (188ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (190ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (36ms)
+				ProcessInitializeOnLoadAttributes (137ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1513 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.0 MB.
+System memory in use after: 73.1 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1968.
-Total: 2.916500 ms (FindLiveObjects: 0.106000 ms CreateObjectMapping: 0.027700 ms MarkObjects: 2.758900 ms  DeleteObjects: 0.022900 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1971.
+Total: 8.106700 ms (FindLiveObjects: 0.169700 ms CreateObjectMapping: 0.104400 ms MarkObjects: 7.802000 ms  DeleteObjects: 0.025600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
