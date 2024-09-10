@@ -15,11 +15,11 @@ C:/Users/shayes/Desktop/Repo/Game-Dudes---Witch-Game/Witch Shop
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60413
+52144
 Successfully changed project path to: C:/Users/shayes/Desktop/Repo/Game-Dudes---Witch-Game/Witch Shop
 C:/Users/shayes/Desktop/Repo/Game-Dudes---Witch-Game/Witch Shop
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 47.13 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 27.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.37f1 (8c66806a0c04)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/Resources/UnitySubsystems
@@ -35,89 +35,89 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.37f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001507 seconds.
+Registered in 0.002187 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 24.00 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 27.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.467 seconds
+- Completed reload, in  0.490 seconds
 Domain Reload Profiling:
-	ReloadAssembly (467ms)
-		BeginReloadAssembly (62ms)
+	ReloadAssembly (490ms)
+		BeginReloadAssembly (67ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (326ms)
-			LoadAssemblies (60ms)
+		EndReloadAssembly (359ms)
+			LoadAssemblies (66ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (111ms)
+			SetupTypeCache (114ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (22ms)
-			SetupLoadedEditorAssemblies (114ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (119ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (24ms)
+				RefreshPlugins (27ms)
 				BeforeProcessingInitializeOnLoad (6ms)
-				ProcessInitializeOnLoadAttributes (59ms)
-				ProcessInitializeOnLoadMethodAttributes (20ms)
+				ProcessInitializeOnLoadAttributes (58ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002614 seconds.
+Registered in 0.002657 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.674 seconds
+- Completed reload, in  0.889 seconds
 Domain Reload Profiling:
-	ReloadAssembly (675ms)
-		BeginReloadAssembly (106ms)
+	ReloadAssembly (890ms)
+		BeginReloadAssembly (118ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (15ms)
-		EndReloadAssembly (529ms)
-			LoadAssemblies (64ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (726ms)
+			LoadAssemblies (78ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (165ms)
+			SetupTypeCache (208ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (27ms)
-			SetupLoadedEditorAssemblies (224ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (336ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (38ms)
-				ProcessInitializeOnLoadAttributes (169ms)
-				ProcessInitializeOnLoadMethodAttributes (9ms)
-				AfterProcessingInitializeOnLoad (4ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (253ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (2ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
-Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.22 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1519 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.1 MB.
-System memory in use after: 69.2 MB.
+System memory in use before: 70.3 MB.
+System memory in use after: 70.3 MB.
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1957.
-Total: 2.041900 ms (FindLiveObjects: 0.081700 ms CreateObjectMapping: 0.024700 ms MarkObjects: 1.865700 ms  DeleteObjects: 0.069200 ms)
+Total: 2.550100 ms (FindLiveObjects: 0.085300 ms CreateObjectMapping: 0.026000 ms MarkObjects: 2.356500 ms  DeleteObjects: 0.080800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -132,156 +132,288 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd21fa7a6c7995562054ace971d31a84') in 0.004432 seconds 
+  path: Assets/Shaye Stuff/2D Witch Test Rig/BodyAsset 82.png
+  artifactKey: Guid(d829716c13422a94e8b77115ef91a760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/BodyAsset 82.png using Guid(d829716c13422a94e8b77115ef91a760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396388fd45276f92b65c0a503311bb88') in 0.200829 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.903446 seconds.
-  path: Assets/Scenes/Shaye Test.unity
-  artifactKey: Guid(9489ba1b2464f6e428a8c392d5afe561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Shaye Test.unity using Guid(9489ba1b2464f6e428a8c392d5afe561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c1208ed4ee57b7d80d9661f374b3b7') in 0.004198 seconds 
+  Time since last request: 7.784710 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/BodyAsset 82.png
+  artifactKey: Guid(d829716c13422a94e8b77115ef91a760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/BodyAsset 82.png using Guid(d829716c13422a94e8b77115ef91a760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27423106ed161a74a45436072bf85277') in 0.067310 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 50.765113 seconds.
-  path: Assets/Shaye Stuff/Coin.png
-  artifactKey: Guid(816eb386a8b76464e8d6009e78f46891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Coin.png using Guid(816eb386a8b76464e8d6009e78f46891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8cf508e985a9b6dd2d504d264f828a0') in 0.442575 seconds 
+  Time since last request: 11.584756 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/HatAsset 91.png
+  artifactKey: Guid(ed186d7aa5e37a6498bed6e85424705c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/HatAsset 91.png using Guid(ed186d7aa5e37a6498bed6e85424705c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49b11b8b87c2dec1e363854961897f03') in 0.011839 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 14.757508 seconds.
-  path: Assets/Shaye Stuff/Coin.png
-  artifactKey: Guid(816eb386a8b76464e8d6009e78f46891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Coin.png using Guid(816eb386a8b76464e8d6009e78f46891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9488ff31045c939cc3d2b6d9f5a2de07') in 0.056273 seconds 
+  Time since last request: 2.257720 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/HeadAsset 90.png
+  artifactKey: Guid(5abc835cfb52df448a5d5b789fd7fdeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/HeadAsset 90.png using Guid(5abc835cfb52df448a5d5b789fd7fdeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27b8d86bcae28135a50f9cf9576c36c') in 0.011075 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 850.790545 seconds.
-  path: Assets/Shaye Stuff/Star_EmptyAsset 3.png
-  artifactKey: Guid(d5aae0d9388a01843805a8bb8c48c366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Star_EmptyAsset 3.png using Guid(d5aae0d9388a01843805a8bb8c48c366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66cb08686456d469e0a4d9d84c39d01') in 0.010773 seconds 
+  Time since last request: 9.229228 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/HeadAsset 90.png
+  artifactKey: Guid(5abc835cfb52df448a5d5b789fd7fdeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/HeadAsset 90.png using Guid(5abc835cfb52df448a5d5b789fd7fdeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7319b6cfa36997f887b2fc73074cbc') in 0.019244 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.286003 seconds.
-  path: Assets/Shaye Stuff/Toe 1.png
-  artifactKey: Guid(2763e022ddff96d44a1e309edfa735f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Toe 1.png using Guid(2763e022ddff96d44a1e309edfa735f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847f320194ea8ae42235a683d4fcb442') in 0.015057 seconds 
+  Time since last request: 18.397412 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/NeckAsset 89.png
+  artifactKey: Guid(a97c29bae00589a47a97bbc614f0e9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/NeckAsset 89.png using Guid(a97c29bae00589a47a97bbc614f0e9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190c1b0f00591f122af9ebc18b8cf0c6') in 0.009718 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.061651 seconds.
-  path: Assets/Shaye Stuff/T Path.png
-  artifactKey: Guid(d79f61387f7094e4694b5b3adf7810f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/T Path.png using Guid(d79f61387f7094e4694b5b3adf7810f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7770068c930e230fb1423b8aeb417352') in 0.010060 seconds 
+  Time since last request: 6.352918 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/NeckAsset 89.png
+  artifactKey: Guid(a97c29bae00589a47a97bbc614f0e9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/NeckAsset 89.png using Guid(a97c29bae00589a47a97bbc614f0e9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '991969ba52b4c8228bb0487da641760c') in 0.016044 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.180604 seconds.
-  path: Assets/Shaye Stuff/Star_FilledAsset 2.png
-  artifactKey: Guid(0454932684c72ad499999816f2980bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Star_FilledAsset 2.png using Guid(0454932684c72ad499999816f2980bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd864841f7bfdccc0c7c73a1e635f506d') in 0.008249 seconds 
+  Time since last request: 227.133046 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L FootAsset 75.png
+  artifactKey: Guid(24ee02f29befa5d46b83d97280ec629c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L FootAsset 75.png using Guid(24ee02f29befa5d46b83d97280ec629c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf4e3571dfd014348375c6f307bc09b') in 0.011826 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.237086 seconds.
-  path: Assets/Shaye Stuff/SquareButton_Pressed.png
-  artifactKey: Guid(aba63d2e94e6cb54f9b89a8084182109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/SquareButton_Pressed.png using Guid(aba63d2e94e6cb54f9b89a8084182109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894a2471e6af895c16d3eccbf1c74e57') in 0.008572 seconds 
+  Time since last request: 2.458340 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L CalfAsset 78.png
+  artifactKey: Guid(15f98e6dfb9b2444a889686a838fae0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L CalfAsset 78.png using Guid(15f98e6dfb9b2444a889686a838fae0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bcb2b705f5c0e57dbf3dd29751f8512') in 0.009191 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.098731 seconds.
-  path: Assets/Shaye Stuff/SquareButton.png
-  artifactKey: Guid(c07b247a2abbe074f8373b2523ba340b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/SquareButton.png using Guid(c07b247a2abbe074f8373b2523ba340b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112a22441d58ba39cca92f9f0b8ee0b7') in 0.010956 seconds 
+  Time since last request: 3.433540 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R ThighAsset 80.png
+  artifactKey: Guid(5b3540cc2bff3e24997fb76b1adc53e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R ThighAsset 80.png using Guid(5b3540cc2bff3e24997fb76b1adc53e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef959101d5aba0e227bcdbb79063ba68') in 0.025518 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.114247 seconds.
-  path: Assets/Shaye Stuff/Red potion 1.png
-  artifactKey: Guid(afd82d8d82850a046b6f53911e480703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Red potion 1.png using Guid(afd82d8d82850a046b6f53911e480703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76663c1b27cbdb893d50d9341bcc373b') in 0.007945 seconds 
+  Time since last request: 15.576879 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R ThighAsset 80.png
+  artifactKey: Guid(5b3540cc2bff3e24997fb76b1adc53e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R ThighAsset 80.png using Guid(5b3540cc2bff3e24997fb76b1adc53e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34781ef74aed60400fc6711824f486cb') in 0.014863 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.131854 seconds.
-  path: Assets/Shaye Stuff/Menu_topCap.png
-  artifactKey: Guid(10beff285b16eff49b4d309a39d66c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Menu_topCap.png using Guid(10beff285b16eff49b4d309a39d66c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a757162213012b291da9adbd0fe1f33a') in 0.010840 seconds 
+  Time since last request: 37.612663 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L ThighAsset 81.png
+  artifactKey: Guid(508afbcbfa09fe141b5a6f5b6ee82ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L ThighAsset 81.png using Guid(508afbcbfa09fe141b5a6f5b6ee82ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af052ce5c6774f4f9b31419bef29f06a') in 0.011999 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.113505 seconds.
-  path: Assets/Shaye Stuff/Menu_botCap.png
-  artifactKey: Guid(948859d935086b9479acbb43ef9434fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Menu_botCap.png using Guid(948859d935086b9479acbb43ef9434fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce4edab80653dd1e7e3018e84bcbae8') in 0.011947 seconds 
+  Time since last request: 7.368237 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L ThighAsset 81.png
+  artifactKey: Guid(508afbcbfa09fe141b5a6f5b6ee82ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L ThighAsset 81.png using Guid(508afbcbfa09fe141b5a6f5b6ee82ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22e6a3b5305f7e7ea8f489c49ceb786') in 0.016917 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.131808 seconds.
-  path: Assets/Shaye Stuff/Menu_Body.png
-  artifactKey: Guid(fa961c1b11fc28640ba31c95efd0154a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Menu_Body.png using Guid(fa961c1b11fc28640ba31c95efd0154a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94158c1b6654fd30131d5dfb37b0743') in 0.013544 seconds 
+  Time since last request: 52.763313 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R CalfAsset 79.png
+  artifactKey: Guid(cb29be12e18777b46ad8f28262e0829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R CalfAsset 79.png using Guid(cb29be12e18777b46ad8f28262e0829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a018a2f71a2c981cc3d864dae675cc01') in 0.011440 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 391.564915 seconds.
-  path: Assets/Shaye Stuff/Fern 1.png
-  artifactKey: Guid(a46151a0a57917348b49aee2d406d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Fern 1.png using Guid(a46151a0a57917348b49aee2d406d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aee6ca48dbab61c06b602df1651a845') in 0.009443 seconds 
+  Time since last request: 6.906322 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R CalfAsset 79.png
+  artifactKey: Guid(cb29be12e18777b46ad8f28262e0829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R CalfAsset 79.png using Guid(cb29be12e18777b46ad8f28262e0829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb236a9baa8c849dd2b8f4e6ecb48c28') in 0.018853 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.384330 seconds.
-  path: Assets/Shaye Stuff/Fern 1.png
-  artifactKey: Guid(a46151a0a57917348b49aee2d406d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Shaye Stuff/Fern 1.png using Guid(a46151a0a57917348b49aee2d406d7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fcd10e3ff015a0093ec0ac8dd5aa2dd') in 0.041855 seconds 
+  Time since last request: 38.170020 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L CalfAsset 78.png
+  artifactKey: Guid(15f98e6dfb9b2444a889686a838fae0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L CalfAsset 78.png using Guid(15f98e6dfb9b2444a889686a838fae0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e873845b3bab9835b92d0a6c098433da') in 0.017113 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 143.457719 seconds.
-  path: Assets/Animation/Person.controller
-  artifactKey: Guid(6729b590d1a61ba41b7e98841a7007c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Person.controller using Guid(6729b590d1a61ba41b7e98841a7007c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47cbaa9b0875433fa0344d39d75e7a85') in 0.009739 seconds 
+  Time since last request: 23.106027 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L FootAsset 75.png
+  artifactKey: Guid(24ee02f29befa5d46b83d97280ec629c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L FootAsset 75.png using Guid(24ee02f29befa5d46b83d97280ec629c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e74c573cf46c427b579ab446a7ad3db1') in 0.014650 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 61.214040 seconds.
-  path: Assets/Animation/Coin.controller
-  artifactKey: Guid(f12b93aee2a51bb4c8150366f7ce0eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Coin.controller using Guid(f12b93aee2a51bb4c8150366f7ce0eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36f89aa1a10e768edbfa4bc60202e62') in 0.003198 seconds 
+  Time since last request: 22.740044 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R FootAsset 77.png
+  artifactKey: Guid(8f93055890876c34394ee51db2f36f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R FootAsset 77.png using Guid(8f93055890876c34394ee51db2f36f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0866216a33a994f4b0bf566f14dc2cd0') in 0.010205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.824046 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R FootAsset 77.png
+  artifactKey: Guid(8f93055890876c34394ee51db2f36f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R FootAsset 77.png using Guid(8f93055890876c34394ee51db2f36f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8923926c582ad7c0abb702b88799436d') in 0.016165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.027967 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 88.png
+  artifactKey: Guid(e425b66388a06d14e9cc6a0e4786e73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 88.png using Guid(e425b66388a06d14e9cc6a0e4786e73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33385d4e39ad9c3412633d62c29fc659') in 0.010967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.752158 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 88.png
+  artifactKey: Guid(e425b66388a06d14e9cc6a0e4786e73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 88.png using Guid(e425b66388a06d14e9cc6a0e4786e73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f3c737393c5886d6cddc4ceb7394c1') in 0.015936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.714718 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L ForearmAsset 86.png
+  artifactKey: Guid(862a5d617672d0340a58741efc8f7b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L ForearmAsset 86.png using Guid(862a5d617672d0340a58741efc8f7b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311c0f428d3e43362893a35d725394a1') in 0.009358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.369416 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L ForearmAsset 86.png
+  artifactKey: Guid(862a5d617672d0340a58741efc8f7b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L ForearmAsset 86.png using Guid(862a5d617672d0340a58741efc8f7b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adca31051c632f3d2693c4e9ead3c8f3') in 0.015350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.159207 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L HandAsset 83.png
+  artifactKey: Guid(173ba0df249aaea4a89e89d5681fcdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L HandAsset 83.png using Guid(173ba0df249aaea4a89e89d5681fcdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa518165ddf008fcb8fc6b0919142cf5') in 0.009959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.564491 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L HandAsset 83.png
+  artifactKey: Guid(173ba0df249aaea4a89e89d5681fcdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L HandAsset 83.png using Guid(173ba0df249aaea4a89e89d5681fcdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6213f0208380151ad2f16d2930eb5c90') in 0.015002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.964155 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 87.png
+  artifactKey: Guid(d1d01bab7a23b8d4e831a912434aa0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 87.png using Guid(d1d01bab7a23b8d4e831a912434aa0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666b0467bd24e750635220a83e884058') in 0.012752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.360012 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 87.png
+  artifactKey: Guid(d1d01bab7a23b8d4e831a912434aa0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 87.png using Guid(d1d01bab7a23b8d4e831a912434aa0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab3434b4a780364631ba927d8c0d8b5') in 0.012308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.754240 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R ForearmAsset 85.png
+  artifactKey: Guid(8fe2bce8f11b7ee48bb88314921ed81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R ForearmAsset 85.png using Guid(8fe2bce8f11b7ee48bb88314921ed81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef764fab0858355eced63ac81f56bbc0') in 0.009699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.174995 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R ForearmAsset 85.png
+  artifactKey: Guid(8fe2bce8f11b7ee48bb88314921ed81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R ForearmAsset 85.png using Guid(8fe2bce8f11b7ee48bb88314921ed81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be412cbcea39e378985b3340d2f6c29c') in 0.014022 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.383805 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R HandAsset 84.png
+  artifactKey: Guid(7bc00c65e2eb324429c376a04f3ecf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R HandAsset 84.png using Guid(7bc00c65e2eb324429c376a04f3ecf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '555369e68a1978135a237888fe9a84d8') in 0.009468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.877177 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R HandAsset 84.png
+  artifactKey: Guid(7bc00c65e2eb324429c376a04f3ecf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R HandAsset 84.png using Guid(7bc00c65e2eb324429c376a04f3ecf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5f2db7b450499ff218e20354905247') in 0.015497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.350566 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/HatAsset 91.png
+  artifactKey: Guid(ed186d7aa5e37a6498bed6e85424705c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/HatAsset 91.png using Guid(ed186d7aa5e37a6498bed6e85424705c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec596803480b505b729c2f0a4a5c2df4') in 0.016920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 168.219982 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 92.png
+  artifactKey: Guid(66990c6fa5fcd944c8bcb437c6621dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 92.png using Guid(66990c6fa5fcd944c8bcb437c6621dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d00af1cd278b1117f94ccb41dcde07') in 0.006692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.084104 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 92.png
+  artifactKey: Guid(66990c6fa5fcd944c8bcb437c6621dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 92.png using Guid(66990c6fa5fcd944c8bcb437c6621dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19bb069b83cd8672801931ea8dbc227d') in 0.016229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.373470 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 93.png
+  artifactKey: Guid(7c9e5adf30f001b4ba5490ba4b16cbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 93.png using Guid(7c9e5adf30f001b4ba5490ba4b16cbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f878c2ae7c2f0ed03b4577ee7de25a8') in 0.012023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.769399 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 93.png
+  artifactKey: Guid(7c9e5adf30f001b4ba5490ba4b16cbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 93.png using Guid(7c9e5adf30f001b4ba5490ba4b16cbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c9d4db3d29822f46d11a10dd570af0c') in 0.017159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.719114 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/BodyAsset 94.png
+  artifactKey: Guid(093e6e1320d4f8240837d740b30ade91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/BodyAsset 94.png using Guid(093e6e1320d4f8240837d740b30ade91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50fbfa2c8f3aad7e943a57fd8f20cc7') in 0.011255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.577396 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/BodyAsset 94.png
+  artifactKey: Guid(093e6e1320d4f8240837d740b30ade91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/BodyAsset 94.png using Guid(093e6e1320d4f8240837d740b30ade91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd2c8ebf4d85413fa8f583accf443d2') in 0.018938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 112.219354 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/CollarAsset 95.png
+  artifactKey: Guid(75642dac78712514689bb94b51feba87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/CollarAsset 95.png using Guid(75642dac78712514689bb94b51feba87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48fe6a4d0df5726d8ac83f259a9d2a13') in 0.011736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.446665 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/CollarAsset 95.png
+  artifactKey: Guid(75642dac78712514689bb94b51feba87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/CollarAsset 95.png using Guid(75642dac78712514689bb94b51feba87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444577551738c7747148f559ea79203c') in 0.010980 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002599 seconds.
+Registered in 0.003646 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.655 seconds
+- Completed reload, in  0.743 seconds
 Domain Reload Profiling:
-	ReloadAssembly (656ms)
-		BeginReloadAssembly (95ms)
+	ReloadAssembly (745ms)
+		BeginReloadAssembly (115ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (32ms)
-		EndReloadAssembly (519ms)
-			LoadAssemblies (67ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (585ms)
+			LoadAssemblies (86ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (188ms)
+			SetupTypeCache (199ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (190ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (218ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (36ms)
-				ProcessInitializeOnLoadAttributes (137ms)
-				ProcessInitializeOnLoadMethodAttributes (9ms)
-				AfterProcessingInitializeOnLoad (5ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (43ms)
+				ProcessInitializeOnLoadAttributes (153ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (2ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1513 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.0 MB.
-System memory in use after: 73.1 MB.
+Unloading 1547 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1971.
-Total: 8.106700 ms (FindLiveObjects: 0.169700 ms CreateObjectMapping: 0.104400 ms MarkObjects: 7.802000 ms  DeleteObjects: 0.025600 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2037.
+Total: 2.237100 ms (FindLiveObjects: 0.087900 ms CreateObjectMapping: 0.025100 ms MarkObjects: 2.107900 ms  DeleteObjects: 0.015300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -294,4 +426,64 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 458.869026 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 92.png
+  artifactKey: Guid(66990c6fa5fcd944c8bcb437c6621dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L Upper ArmAsset 92.png using Guid(66990c6fa5fcd944c8bcb437c6621dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b705da4b26c599b40c8ba2dc648e5b9') in 0.078572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 261.545285 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L ForearmAsset 86.png
+  artifactKey: Guid(862a5d617672d0340a58741efc8f7b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L ForearmAsset 86.png using Guid(862a5d617672d0340a58741efc8f7b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aba0bcdbd0b5b95fbc0297c91d9cbe0') in 0.014851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 84.316429 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L ForearmAsset 86.png
+  artifactKey: Guid(862a5d617672d0340a58741efc8f7b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L ForearmAsset 86.png using Guid(862a5d617672d0340a58741efc8f7b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2150f33b4dfebd11db986f999e440c29') in 0.018359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.121303 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L HandAsset 83.png
+  artifactKey: Guid(173ba0df249aaea4a89e89d5681fcdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L HandAsset 83.png using Guid(173ba0df249aaea4a89e89d5681fcdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11ef5a890cf6f6b4c8f5293fb8fb6bc') in 0.008194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.596109 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 93.png
+  artifactKey: Guid(7c9e5adf30f001b4ba5490ba4b16cbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R Upper ArmAsset 93.png using Guid(7c9e5adf30f001b4ba5490ba4b16cbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa78179b3bf9ef16e93e476de20529c9') in 0.012733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.145961 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R ForearmAsset 85.png
+  artifactKey: Guid(8fe2bce8f11b7ee48bb88314921ed81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R ForearmAsset 85.png using Guid(8fe2bce8f11b7ee48bb88314921ed81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a30b462e34a361412ec4f31dd1328c') in 0.014485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 81.577147 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/R HandAsset 84.png
+  artifactKey: Guid(7bc00c65e2eb324429c376a04f3ecf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/R HandAsset 84.png using Guid(7bc00c65e2eb324429c376a04f3ecf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e498942b6814869e6c64e9913a7bf26') in 0.011636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 76.466212 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L ThighAsset 81.png
+  artifactKey: Guid(508afbcbfa09fe141b5a6f5b6ee82ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L ThighAsset 81.png using Guid(508afbcbfa09fe141b5a6f5b6ee82ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3667e07c4b41bbcff5d6e0db9271baa') in 0.016413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 67.091458 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L CalfAsset 78.png
+  artifactKey: Guid(15f98e6dfb9b2444a889686a838fae0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L CalfAsset 78.png using Guid(15f98e6dfb9b2444a889686a838fae0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a11b14615289527529e024e8933d7fe') in 0.015169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 98.297288 seconds.
+  path: Assets/Shaye Stuff/2D Witch Test Rig/L FootAsset 75.png
+  artifactKey: Guid(24ee02f29befa5d46b83d97280ec629c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaye Stuff/2D Witch Test Rig/L FootAsset 75.png using Guid(24ee02f29befa5d46b83d97280ec629c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124b824fbce7bb75362548f2c272fa46') in 0.015839 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
